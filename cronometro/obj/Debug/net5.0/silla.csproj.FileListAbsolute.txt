@@ -1,0 +1,16 @@
+C:\Users\Punto Digital\source\repos\silla\silla\bin\Debug\net5.0\silla.exe
+C:\Users\Punto Digital\source\repos\silla\silla\bin\Debug\net5.0\silla.deps.json
+C:\Users\Punto Digital\source\repos\silla\silla\bin\Debug\net5.0\silla.runtimeconfig.json
+C:\Users\Punto Digital\source\repos\silla\silla\bin\Debug\net5.0\silla.runtimeconfig.dev.json
+C:\Users\Punto Digital\source\repos\silla\silla\bin\Debug\net5.0\silla.dll
+C:\Users\Punto Digital\source\repos\silla\silla\bin\Debug\net5.0\ref\silla.dll
+C:\Users\Punto Digital\source\repos\silla\silla\bin\Debug\net5.0\silla.pdb
+C:\Users\Punto Digital\source\repos\silla\silla\obj\Debug\net5.0\silla.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\source\repos\silla\silla\obj\Debug\net5.0\silla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\source\repos\silla\silla\obj\Debug\net5.0\silla.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\source\repos\silla\silla\obj\Debug\net5.0\silla.AssemblyInfo.cs
+C:\Users\Punto Digital\source\repos\silla\silla\obj\Debug\net5.0\silla.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\source\repos\silla\silla\obj\Debug\net5.0\silla.dll
+C:\Users\Punto Digital\source\repos\silla\silla\obj\Debug\net5.0\ref\silla.dll
+C:\Users\Punto Digital\source\repos\silla\silla\obj\Debug\net5.0\silla.pdb
+C:\Users\Punto Digital\source\repos\silla\silla\obj\Debug\net5.0\silla.genruntimeconfig.cache
