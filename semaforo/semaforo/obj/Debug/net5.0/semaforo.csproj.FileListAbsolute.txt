@@ -1,0 +1,16 @@
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\bin\Debug\net5.0\semaforo.exe
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\bin\Debug\net5.0\semaforo.deps.json
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\bin\Debug\net5.0\semaforo.runtimeconfig.json
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\bin\Debug\net5.0\semaforo.runtimeconfig.dev.json
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\bin\Debug\net5.0\semaforo.dll
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\bin\Debug\net5.0\ref\semaforo.dll
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\bin\Debug\net5.0\semaforo.pdb
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\obj\Debug\net5.0\semaforo.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\obj\Debug\net5.0\semaforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\obj\Debug\net5.0\semaforo.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\obj\Debug\net5.0\semaforo.AssemblyInfo.cs
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\obj\Debug\net5.0\semaforo.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\obj\Debug\net5.0\semaforo.dll
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\obj\Debug\net5.0\ref\semaforo.dll
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\obj\Debug\net5.0\semaforo.pdb
+C:\Users\Punto Digital\source\repos\semaforo\semaforo\obj\Debug\net5.0\semaforo.genruntimeconfig.cache
