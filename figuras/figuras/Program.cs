@@ -10,8 +10,8 @@ namespace figuras
 
     public class Rectangulo : Figura
     {
-        public double Base { get; set; }
-        public double Altura { get; set; }
+        public double Base;
+        public double Altura;
 
         public Rectangulo(double b, double h)
         {
@@ -32,7 +32,7 @@ namespace figuras
     
     public class Cuadrado : Figura
     {
-        public double Lado { get; set; }
+        public double Lado;
 
         public Cuadrado(double l)
         {
@@ -52,10 +52,10 @@ namespace figuras
 
     public class Triangulo : Figura
     {
-        public double Base { get; set; }
-        public double Lado2 { get; set; }
-        public double Lado3 { get; set; }
-        public double Altura { get; set; }
+        public double Base;
+        public double Lado2;
+        public double Lado3;
+        public double Altura;
 
         public Triangulo(double b, double l2, double l3, double h)
         {
@@ -79,7 +79,7 @@ namespace figuras
     public class Circulo : Figura
     {
         public static double Pi = 3.14159265359;
-        public double Radio { get; set; }
+        public double Radio;
 
         public Circulo(double radio)
         {
