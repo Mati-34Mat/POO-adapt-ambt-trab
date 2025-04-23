@@ -1,0 +1,15 @@
+C:\Users\Matías\Source\Repos\figuras\figuras\bin\Debug\net5.0\figuras.exe
+C:\Users\Matías\Source\Repos\figuras\figuras\bin\Debug\net5.0\figuras.deps.json
+C:\Users\Matías\Source\Repos\figuras\figuras\bin\Debug\net5.0\figuras.runtimeconfig.json
+C:\Users\Matías\Source\Repos\figuras\figuras\bin\Debug\net5.0\figuras.runtimeconfig.dev.json
+C:\Users\Matías\Source\Repos\figuras\figuras\bin\Debug\net5.0\figuras.dll
+C:\Users\Matías\Source\Repos\figuras\figuras\bin\Debug\net5.0\figuras.pdb
+C:\Users\Matías\Source\Repos\figuras\figuras\obj\Debug\net5.0\figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matías\Source\Repos\figuras\figuras\obj\Debug\net5.0\figuras.AssemblyInfoInputs.cache
+C:\Users\Matías\Source\Repos\figuras\figuras\obj\Debug\net5.0\figuras.AssemblyInfo.cs
+C:\Users\Matías\Source\Repos\figuras\figuras\obj\Debug\net5.0\figuras.csproj.CoreCompileInputs.cache
+C:\Users\Matías\Source\Repos\figuras\figuras\obj\Debug\net5.0\figuras.dll
+C:\Users\Matías\Source\Repos\figuras\figuras\obj\Debug\net5.0\refint\figuras.dll
+C:\Users\Matías\Source\Repos\figuras\figuras\obj\Debug\net5.0\figuras.pdb
+C:\Users\Matías\Source\Repos\figuras\figuras\obj\Debug\net5.0\figuras.genruntimeconfig.cache
+C:\Users\Matías\Source\Repos\figuras\figuras\obj\Debug\net5.0\ref\figuras.dll
