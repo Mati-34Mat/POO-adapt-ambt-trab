@@ -1,0 +1,16 @@
+C:\Users\Punto Digital\source\repos\banco\banco\bin\Debug\net5.0\banco.exe
+C:\Users\Punto Digital\source\repos\banco\banco\bin\Debug\net5.0\banco.deps.json
+C:\Users\Punto Digital\source\repos\banco\banco\bin\Debug\net5.0\banco.runtimeconfig.json
+C:\Users\Punto Digital\source\repos\banco\banco\bin\Debug\net5.0\banco.runtimeconfig.dev.json
+C:\Users\Punto Digital\source\repos\banco\banco\bin\Debug\net5.0\banco.dll
+C:\Users\Punto Digital\source\repos\banco\banco\bin\Debug\net5.0\ref\banco.dll
+C:\Users\Punto Digital\source\repos\banco\banco\bin\Debug\net5.0\banco.pdb
+C:\Users\Punto Digital\source\repos\banco\banco\obj\Debug\net5.0\banco.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\source\repos\banco\banco\obj\Debug\net5.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\source\repos\banco\banco\obj\Debug\net5.0\banco.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\source\repos\banco\banco\obj\Debug\net5.0\banco.AssemblyInfo.cs
+C:\Users\Punto Digital\source\repos\banco\banco\obj\Debug\net5.0\banco.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\source\repos\banco\banco\obj\Debug\net5.0\banco.dll
+C:\Users\Punto Digital\source\repos\banco\banco\obj\Debug\net5.0\ref\banco.dll
+C:\Users\Punto Digital\source\repos\banco\banco\obj\Debug\net5.0\banco.pdb
+C:\Users\Punto Digital\source\repos\banco\banco\obj\Debug\net5.0\banco.genruntimeconfig.cache
